@@ -1,0 +1,13 @@
+﻿  PhoneBook.cpp
+D:\C++Projects\PhoneBook\PhoneBook.cpp(28,18): warning C4477: 'fscanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+D:\C++Projects\PhoneBook\PhoneBook.cpp(28,18): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+D:\C++Projects\PhoneBook\PhoneBook.cpp(28,18): message : placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+D:\C++Projects\PhoneBook\PhoneBook.cpp(28,18): message : the missing variadic argument 3 is required by format string '%s'
+D:\C++Projects\PhoneBook\PhoneBook.cpp(28,18): message : this argument is used as a buffer size
+D:\C++Projects\PhoneBook\PhoneBook.cpp(21,24): warning C4101: 'e': unreferenced local variable
+D:\C++Projects\PhoneBook\PhoneBook.cpp(47,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\C++Projects\PhoneBook\PhoneBook.cpp(47,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\C++Projects\PhoneBook\PhoneBook.cpp(47,13): message : the missing variadic argument 2 is required by format string '%s'
+D:\C++Projects\PhoneBook\PhoneBook.cpp(47,13): message : this argument is used as a buffer size
+D:\C++Projects\PhoneBook\PhoneBook.cpp(110,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  PhoneBook.vcxproj -> D:\C++Projects\PhoneBook\Debug\PhoneBook.exe

@@ -1,0 +1,2 @@
+D:\C++Projects\PhoneBook\Debug\PhoneBook.exe
+D:\C++Projects\PhoneBook\Debug\PhoneBook.pdb
